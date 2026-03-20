@@ -86,6 +86,4 @@ This project is great for beginners to understand:
 
 ---
 
-## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
